@@ -81,7 +81,9 @@ body{
     gap: 0.5rem;
     flex-wrap: wrap;
 }
-
+header .icons i{
+    font-size: 12px;
+}
 .search-input {
     display: flex;
     align-items: center;
@@ -174,8 +176,8 @@ body{
 }
 
 .icons i {
-    height: 40px;
-    width: 40px;
+    height: 30px;
+    width: 30px;
     background: #f7f9fb;
     display: inline-flex;
     align-items: center;
